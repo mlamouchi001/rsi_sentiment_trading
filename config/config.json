@@ -1,0 +1,23 @@
+{
+  "twitter": {
+    "api_key": "4QTjD4vJkAYoGmqNbfvucgdrp",
+    "api_secret": "nU7VD7AZVSaeZ2EQw3GfYzaMYm9uvAxOg9LEqoEHAiUgZY2zYw",
+    "access_token": "792057852336668672-eGs0PzExih0ZbK5N8DVwx9SCEoY5dfc",
+    "access_secret": "atQObaqtTmDx86Z9Qu4h4WVU1kmc1fOXiC7hWlf11qI82",
+    "bearer_token": "AAAAAAAAAAAAAAAAAAAAAH%2FKwQEAAAAAKZIbKU9teqAdaxMYtJ40VyOBdtU%3D9Rko4gZMQkhB9Sm5ZI7Re7lNqwmw3sI88o1TkXUUA7rsPgwKhu",
+    "client_id": "c3M1RDM1QkR0WXBTUGlFY3gyYWc6MTpjaQ",
+    "client_secret": "sHb6UAVsIwu9X8oqo4zZ98pBl2mtv5Yx24UPG2PocC6EawzBKC"
+  },
+  "reddit": {
+    "client_id": "lBtxk8GwH3TzYRWYL62iYQ",
+    "client_secret": "9oHpSWIEe34g96dNhi0HXk9rIugesw",
+    "user_agent": "MyRedditBot/0.1 by u/mlabig"
+  },
+  "discord": {
+    "webhook_url": "YOUR_DISCORD_WEBHOOK_URL"
+  },
+  "binance": {
+    "api_key": "lZpO7N3imurDzkSLE0OG7czCKlrN8FlX15pkJkWaRaOFa4c4MABwa69UmQeksfSN",
+    "api_secret": "9T5Zes1BfNBQp6Pruari6N4vNMvtPVcXdWVw1aZmDTLlk0FEHMsRo4r2stYL0ZYN"
+  }
+}
